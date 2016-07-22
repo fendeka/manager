@@ -1,0 +1,24 @@
+#body{
+    background: aliceblue;
+}
+#header{
+        padding: 20px;
+        background: gold;
+}
+#content{
+    height: 100%;
+    padding: 20px;
+    background: #ffffff;
+}
+#footer{
+    position: absolute;
+    background: green;
+    padding: 20px;
+    width: 96%;
+    bottom: 0;
+}
+.inline
+{
+    display: inline
+
+}
